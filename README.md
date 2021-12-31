@@ -10,8 +10,8 @@ DACON에 참가하면서 많이 배우고 있습니다 :D <br>
 
 ### 집계중
 * [심장 질환 예측 경진대회](https://dacon.io/competitions/official/235848/overview/description)
- * Public 21위, F1: 0.92063
- * Private 118위, F1: 0.81632
+  * Public 21위, F1: 0.92063
+  * Private 118위, F1: 0.81632
 
 ### 참여중
 * [펭귄 몸무게 예측 경진대회](https://dacon.io/competitions/official/235862/overview/description)
