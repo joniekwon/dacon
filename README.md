@@ -15,7 +15,9 @@ DACON에 참가하면서 많이 배우고 있습니다 :D <br>
   * Private 118위, F1: 0.81632
 
 * [펭귄 몸무게 예측 경진대회](https://dacon.io/competitions/official/235862/overview/description)
-  
+  * 최종 코드 (autokeras model) [[Link]](https://github.com/joniekwon/dacon/blob/main/penguin/private%2017%EC%9C%84%20%EC%BD%94%EB%93%9C.ipynb)
+  * Public 19위, RMSE: 273.77986
+  * Private 17위, RMSE: 307.12057
  
 ### 참여중
 
