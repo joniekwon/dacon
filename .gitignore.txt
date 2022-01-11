@@ -1,0 +1,21 @@
+# Logs
+Logs
+*.Logsnpm-debus.log*
+
+# Dependency directories
+node_modules/
+
+# Runtime data
+
+.idea/
+
+# jupyter ckpt
+.ipynb_ckeckpoints/
+*/structured_data
+
+# submit
+*/submission*
+
+# data
+*/_data/*
+*/*/_data/
