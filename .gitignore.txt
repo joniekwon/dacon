@@ -17,4 +17,4 @@ node_modules/
 */submmitions*
 
 # data
-*/*/_data/
+*/_data/
