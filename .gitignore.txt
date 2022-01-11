@@ -13,8 +13,8 @@ node_modules/
 .ipynb_ckeckpoints/
 */structured_data
 
-# submmit
-*/submmitions*
+# submit
+*/submission*
 
 # data
 */_data/*
