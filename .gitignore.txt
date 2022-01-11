@@ -12,3 +12,6 @@ node_modules/
 # jupyter ckpt
 .ipynb_ckeckpoints/
 */structured_data
+
+# submmit
+*/submmitions*
