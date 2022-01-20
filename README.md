@@ -1,6 +1,6 @@
 ## DACON (https://dacon.io/) 
 DACON에 참가하면서 많이 배우고 있습니다 :D <br>
-😎 [DACON PROFILE](https://dacon.io/myprofile/438333/home)
+😎 DACON PROFILE [LINK](https://dacon.io/myprofile/438333/competition)
 ***
 
 ### 종료
@@ -23,3 +23,5 @@ DACON에 참가하면서 많이 배우고 있습니다 :D <br>
 
 * [잡케어 추천 알고리즘 경진대회](https://dacon.io/competitions/official/235863/data)
 * [KNOW기반 직업 추천 알고리즘 경진대회](https://dacon.io/competitions/official/235865/data)
+* [영화 리뷰 감성분석 경진대회](https://dacon.io/competitions/official/235864/overview/description)
+* [농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description)
