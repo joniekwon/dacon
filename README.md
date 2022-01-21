@@ -20,7 +20,7 @@ DACON에 참가하면서 많이 배우고 있습니다 :D <br>
   * Private 17위, RMSE: 307.12057
 
 * [영화 리뷰 감성분석 경진대회](https://dacon.io/competitions/official/235864/overview/description)
-  * 최종 코드 [[Link]](https://github.com/joniekwon/dacon/blob/main/movie_review/DAY4.ipynb)
+  * 최종 코드 (TfidfVectorizer, NB,SVC,SGD Stacking) [[Link]](https://github.com/joniekwon/dacon/blob/main/movie_review/DAY4.ipynb)
   * Public 15위, Accuracy 0.882
   * Private 24위, Accuracy 0.88833
 
