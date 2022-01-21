@@ -7,7 +7,7 @@ DACON에 참가하면서 많이 배우고 있습니다 :D <br>
 * 📈[주식 종료 가격 예측 경진대회](https://dacon.io/competitions/official/235857/overview/description) 
   * 최종 코드 (RF model) [[Link]](https://github.com/joniekwon/dacon/blob/main/stockPredict/predict_close%2Bkospi.ipynb)
   * Public 161위, NMAE: 4.31198
-  *  Private 37위, NMAE: 6.19667
+  * Private 37위, NMAE: 6.19667
 
 * [심장 질환 예측 경진대회](https://dacon.io/competitions/official/235848/overview/description)
   * 최종 코드 (autokeras model) [[Link]](https://github.com/joniekwon/dacon/blob/main/cardiovascular/DAY4-autokeras.ipynb)
@@ -22,7 +22,7 @@ DACON에 참가하면서 많이 배우고 있습니다 :D <br>
 * [영화 리뷰 감성분석 경진대회](https://dacon.io/competitions/official/235864/overview/description)
  * 최종 코드 [[Link]](https://github.com/joniekwon/dacon/blob/main/movie_review/DAY4.ipynb)
  * Public 15위, Accuracy 0.882
- * Private -위, Accuracy -
+ * Private 24위, Accuracy 0.88833
 
 ### 참여중
 
