@@ -2,6 +2,9 @@
 DACON에 참가하면서 많이 배우고 있습니다 :D <br>
 😎 DACON PROFILE [LINK](https://dacon.io/myprofile/438333/competition)
 ***
+### 참여중
+
+* [농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description)
 
 ### 종료
 
@@ -30,7 +33,3 @@ DACON에 참가하면서 많이 배우고 있습니다 :D <br>
   * Public 161위, NMAE: 4.31198
   * Private 37위, NMAE: 6.19667
 
-
-### 참여중
-
-* [농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description)
