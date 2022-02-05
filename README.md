@@ -19,7 +19,7 @@ DACON에 참가하면서 많이 배우고 있습니다 :D <br>
   * Private 24위, Accuracy 0.88833
 
 * [펭귄 몸무게 예측 경진대회](https://dacon.io/competitions/official/235862/overview/description)
-  * 최종 코드 (OLS Regression) [[Link]](https://github.com/joniekwon/dacon/blob/main/penguin/private%2017%EC%9C%84%20%EC%BD%94%EB%93%9C.ipynb)
+  * 최종 코드 (OLS Regression) [[Link]](https://github.com/joniekwon/dacon/blob/main/penguin/DACON%20%ED%8E%AD%EA%B7%84%20%EB%AA%B8%EB%AC%B4%EA%B2%8C%20%EC%98%88%EC%B8%A1%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20(private%2017).ipynb)
   * Public 19위, RMSE: 273.77986
   * Private 17위, RMSE: 307.12057
 
