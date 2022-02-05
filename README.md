@@ -9,7 +9,7 @@ DACON에 참가하면서 많이 배우고 있습니다 :D <br>
 ### 종료
 
 * [잡케어 추천 알고리즘 경진대회](https://dacon.io/competitions/official/235863/data)
-  * 최종 코드 (Catboost Classifier) [[Link]](https://github.com/joniekwon/dacon/blob/main/jobcare/day8-gb-k3-(2).ipynb)
+  * 최종 코드 (Catboost Classifier) [[Link]](https://github.com/joniekwon/dacon/blob/main/jobcare/%EC%9E%A1%EC%BC%80%EC%96%B4%20%EC%B6%94%EC%B2%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20private%20115.ipynb)
   * Public 80위, Accuracy 0.70219
   * Private 115위, Accuracy 0.70178
 
