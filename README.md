@@ -3,10 +3,16 @@ DACON에 참가하면서 많이 배우고 있습니다 :D <br>
 😎 DACON PROFILE [LINK](https://dacon.io/myprofile/438333/competition)
 ***
 ### 참여중
-
-* [농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description)
+* [농업 환경 변화에 따른 작물 병해 진단 AI 경진대회] 
+  * (종료 후 연습중) timm_aug + fastai + ...
 
 ### 종료
+* [농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description)
+ *  최종 코드 (YOLOv5) [[Link]]()
+   *  yolov5l , 128 batch, img size 128, 150 epochs, horizental/vertical flip, blur augmentation (image only, not use csv data)
+ *  public 160위, F1-macro 0.91923
+ *  private 138위, F1-macro 0.92819
+
 
 * [잡케어 추천 알고리즘 경진대회](https://dacon.io/competitions/official/235863/data)
   * 최종 코드 (Catboost Classifier) [[Link]](https://github.com/joniekwon/dacon/blob/main/jobcare/%EC%9E%A1%EC%BC%80%EC%96%B4%20%EC%B6%94%EC%B2%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20private%20115.ipynb)
