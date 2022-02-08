@@ -8,10 +8,10 @@ DACON에 참가하면서 많이 배우고 있습니다 :D <br>
 
 ### 종료
 * [농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/overview/description)
- *  최종 코드 (YOLOv5) [[Link]]()
-   *  yolov5l , 128 batch, img size 128, 150 epochs, horizental/vertical flip, blur augmentation (image only, not use csv data)
- *  public 160위, F1-macro 0.91923
- *  private 138위, F1-macro 0.92819
+  *  최종 코드 (YOLOv5) [[Link]]()
+    *  yolov5l , 128 batch, img size 128, 150 epochs, horizental/vertical flip, blur augmentation (image only, not use csv data)
+  *  public 160위, F1-macro 0.91923
+  *  private 138위, F1-macro 0.92819
 
 
 * [잡케어 추천 알고리즘 경진대회](https://dacon.io/competitions/official/235863/data)
