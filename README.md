@@ -24,10 +24,6 @@ DACON에 참가하면서 많이 배우고 있습니다 :D <br>
   * 최종 코드 (OLS Regression) [[Link]](https://github.com/joniekwon/dacon/blob/main/penguin_weight_prediction_competition/DACON%20%ED%8E%AD%EA%B7%84%20%EB%AA%B8%EB%AC%B4%EA%B2%8C%20%EC%98%88%EC%B8%A1%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20(private%2017).ipynb)
     * Private 17위, RMSE: 307.12057 / Public 19위, RMSE: 273.77986
 
-* [심장 질환 예측 경진대회](https://dacon.io/competitions/official/235848/overview/description)
-  * 최종 코드 (autokeras model) [[Link]](https://github.com/joniekwon/dacon/blob/main/cardiovascular/DAY4-autokeras.ipynb)
-    * Private 118위, F1: 0.81632 / Public 21위, F1: 0.92063
-
 * 📈[주식 종료 가격 예측 경진대회](https://dacon.io/competitions/official/235857/overview/description) 
   * 최종 코드 (RF model) [[Link]](https://github.com/joniekwon/dacon/blob/main/stock_close_prediction_competition/%EC%A3%BC%EC%8B%9D%20%EC%A2%85%EA%B0%80%20%EC%98%88%EC%B8%A1%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20private%2037.ipynb)
     * Private 37위, NMAE: 6.19667 / Public 161위, NMAE: 4.31198
