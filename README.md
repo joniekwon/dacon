@@ -1,6 +1,6 @@
 ## DACON (https://dacon.io/) 
 DACON에 참가하면서 많이 배우고 있습니다 :D <br>
-😎 DACON PROFILE [LINK](https://dacon.io/myprofile/438333/competition)
+😎 DACON PROFILE [LINK](https://dacon.io/myprofile/438333/home)
 ***
 ### 참여중
 
