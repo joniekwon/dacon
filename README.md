@@ -16,7 +16,7 @@ DACON에 참가하면서 많이 배우고 있습니다 :D <br>
     * Private 115위, Accuracy 0.70178 / Public 80위, Accuracy 0.70219 
 
 * [영화 리뷰 감성분석 경진대회](https://dacon.io/competitions/official/235864/leaderboard)
-  * 최종 코드 (TfidfVectorizer, NB,SVC,SGD Stacking) [[Link]](https://github.com/joniekwon/dacon/blob/main/movie_review_sentiment_analysis_competition/%EC%98%81%ED%99%94%20%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20private%2024.ipynb)
+  * 최종 코드 (TfidfVectorizer, NB,SVC,SGD Stacking) [[Link]](https://github.com/joniekwon/dacon/blob/main/movie_review_sentiment_analysis_competition/movie_review.ipynb)
     * Private 24위, Accuracy 0.88833 / Public 15위, Accuracy 0.882
 
 * [펭귄 몸무게 예측 경진대회](https://dacon.io/competitions/official/235862/leaderboard)
